@@ -13,12 +13,11 @@ CIHI is Canada’s official national health data organization, funded by federal
 - Coverage: Includes major procedures
 
 Healthcare Wait Times Visualization
+![image](https://github.com/user-attachments/assets/e9bb9777-c0ed-4b68-98c6-07be13d60e90)
 
-![image](https://github.com/user-attachments/assets/ee8457fb-668b-49eb-94b2-95bba21c2d9a)
+![image](https://github.com/user-attachments/assets/d75c9966-4e51-47ce-8ee9-4b61636b2f7a)
 
-![image](https://github.com/user-attachments/assets/38e8e77f-fd2a-4693-ba97-7e518bc19145)
-
-![image](https://github.com/user-attachments/assets/c48d417e-ab55-4aac-a010-35ac7d37d55f)
+![image](https://github.com/user-attachments/assets/5b795ff6-5828-4f04-a2af-557809d6a90e)
 
 
 
